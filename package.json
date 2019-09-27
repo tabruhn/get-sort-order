@@ -1,0 +1,17 @@
+{
+  "name": "find-sort-dictionary",
+  "version": "1.0.0",
+  "description": "Given a list of sorted strings, find character order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tyson",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
