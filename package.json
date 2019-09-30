@@ -1,5 +1,5 @@
 {
-  "name": "find-sort-dictionary",
+  "name": "get-sort-order",
   "version": "1.0.0",
   "description": "Given a list of sorted strings, find character order.",
   "main": "index.js",
